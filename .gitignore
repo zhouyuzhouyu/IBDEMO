@@ -1,0 +1,10 @@
+tags
+**/__pycache__/*
+Testbed/log/pyibapi.191228_232230.log
+*.log
+log.*
+core
+*.xml
+.idea/
+venv/
+**/log/
